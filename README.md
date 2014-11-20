@@ -13,7 +13,7 @@ You'd better disable Autolayout of the XIB file which you will use this UIView E
    
 你最好禁用掉你要使用次扩展的XIB文件的自动布局功能。尽管自动布局是非常方便的。不用担心。它很方便而且不影响Storyboard.请看下面的图片，你能很快理解这个扩展的好处。     
 
-![](https://raw.githubusercontent.com/DamonQin/CommonExtensionCollection-Swift/master/Instruction.png)
+![](https://raw.githubusercontent.com/IQIN/CommonExtensionCollection-Swift/master/Instruction.png)
 
 
 
